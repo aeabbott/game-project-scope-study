@@ -29,7 +29,7 @@ You may want to submit pictures for your wireframes and/or user stories.
 has instructions to link to a picture you've uploaded to a service like [Imgur](http://imgur.com/).
 
 Data-Structure:
-I'm currently on the fence about creating an arrays for the winning combinations and player choices.
+I think I'm going to use arrays to store the winning combinations and the player selections. 
 
 Game-Board MarkUp:
 Right now, I am thinking of making 9 divs and floating them to make a tic tac toe board.
